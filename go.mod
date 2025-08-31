@@ -42,7 +42,7 @@ require (
 	github.com/srwiley/rasterx v0.0.0-20220730225603-2ab79fcdd4ef
 	github.com/stretchr/testify v1.10.0
 	github.com/tidwall/sjson v1.2.5
-	github.com/u-root/u-root v0.14.1-0.20250724181933-b01901710169
+	github.com/u-root/u-root v0.15.0
 	github.com/zeebo/xxh3 v1.0.2
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	mvdan.cc/sh/v3 v3.12.1-0.20250726150758-e256f53bade8
